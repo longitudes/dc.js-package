@@ -11,9 +11,9 @@
         "path": "."
       },
       "Crossfilter": {
-        "git": "https://github.com/Ore4444/crossfilter-package.git",
-        "tag": "v0.0.1",
-        "commit": "0984f6635387eaa3292c6c4ddcfcbda3bf72e9d2"
+        "git": "https://github.com/johnm/crossfilter-package.git",
+        "branch": "master",
+        "commit": "452a4279b661982095735c755e71ee4793de44d7"
       }
     }
   }
