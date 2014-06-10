@@ -11,7 +11,7 @@
         "path": "."
       },
       "Crossfilter": {
-        "git": "https://github.com/johnm/crossfilter-package.git",
+        "git": "git@github.com:longitudes/crossfilter-package.git",
         "branch": "master",
         "commit": "452a4279b661982095735c755e71ee4793de44d7"
       }

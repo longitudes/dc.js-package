@@ -7,7 +7,7 @@
   "git": "https://github.com/Ore4444/dc.js-package.git",
   "packages": {
     "Crossfilter": {
-      "git": "https://github.com/johnm/crossfilter-package.git",
+     "git": "git@github.com:longitudes/crossfilter-package.git",
       "commit": "452a4279b661982095735c755e71ee4793de44d7"
       }
   }
